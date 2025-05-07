@@ -1,3 +1,0 @@
-Student 1: kalgi - web
-Student 2: riya - development
-Student 3: dev - python
